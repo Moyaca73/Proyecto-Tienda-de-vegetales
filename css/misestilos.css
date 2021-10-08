@@ -1,2 +1,4 @@
-h2, h1{color: green; text-align: center;}
-p{text-decoration: solid;}
+h2, h1{color: rgb(2, 104, 2); text-align: center;}
+img{width: 48%;}
+body{background-color: rgb(158, 245, 158);}
+header, footer{background-color: rgb(21, 221, 21);}
